@@ -1,4 +1,4 @@
-Hey there! I'm Saivamsi, I'm a passionate software developer with a strong foundation in Python, My-SQL, HTML, CSS, Django, and AngularJS. As a fresher with a passion for coding and crafting innovative Solutions. This README is my Space to showcase my journey, skills, and aspirations as a fresher. Let's dive into it!
+Hey there! I'm Saivamsi, I'm a passionate about full stack web development with a strong foundation in Python, My-SQL, HTML, CSS, Django, and AngularJS. As a fresher with a passion for coding and crafting innovative Solutions. This README is my Space to showcase my journey, skills, and aspirations as a fresher. Let's dive into it!
 
 Skills & Interests::
 
