@@ -25,7 +25,7 @@ Projects:
 
 Connect With Me:
 
-- E-Mail:Saivamsigannavarapu@gmail.com
+- E-Mail:saivamsigannavarapu@gmail.com
 - Linkedin:https://www.linkedin.com/in/sai-vamsi-gannavarapu/
 - GitHub:https://github.com/saiv32178
 
