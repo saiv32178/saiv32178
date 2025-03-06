@@ -10,18 +10,18 @@ Skills & Interests::
 - **Other Skills**: Software Documentation, Debugging Code
 
 Projects:
+- **AI-Powered Web Automation Agent**:                                                                                               Python, Playwright, Browser-User, Web UI
+Developed an AI-powered web automation agent using Python, Playwright, Browser-User, and Web UI, achieving 95% task automation for web interactions.
+Implemented intelligent navigation and data extraction, reducing manual e ort by 80% and improvingform- lling accuracy to 99%.
+Designed a dynamic and adaptive system capable of handling complex web UI interactions, reducing execution time by 60% compared to manual work ows
+- **Django Blog project / Personal project**:                                                                                       ** Django, Python, HTML, CSS, JavaScript, MySQL**
+Developed a fully functional blog application using Django framework, with CRUD (Create, Read, Update, Delete) functionality for blog posts.
+Designed and implemented models for posts, including fields for title, content, author, and timestamps, using Django ORM and SQLite database.
 
-- **Personal Web Portfolio Development**:
-  Developed a personal web portfolio with HTML, CSS, and JavaScript, showcasing projects and skills.
-  Designed and implemented fully responsive layouts, ensuring compatibility across all devices and enhancing user experience with interactive features.
-
-- **Classic Snake game Development**:
-  Make a classic Snake game using HTML, CSS, and JavaScript.
-  implementing smooth animations and responsive controls Produced a user-friendly interface with engaging visuals and intuitive gameplay mechanics.
-
-- **Image captioning using CNN and TRANSFORMER**:
-  Developed an image captioning system using Convolutional Neural Networks (CNNs) and Transformers.
-  Utilized Microsoft O ce Suite for e ective plan documentation and presentation. Independently managed activities independently, adhering to set timelines and milestones.
+- **Image Captioning with CNN and Transformers**:                                                                                     **Python, TensorFlow, Keras**
+Developed a model to generate image captions using CNNs and Transformers.
+Enhanced performance through optimized data preprocessing and model training.
+Documented project progress and ndings using Microsoft Office tools.
 
 Connect With Me:
 
